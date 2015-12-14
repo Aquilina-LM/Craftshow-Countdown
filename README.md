@@ -1,2 +1,2 @@
 # Craftshow-Countdown
-Editable countdown for Spring/Fall craftshow
+Side project to create an editable countdown for the band Spring/Fall craftshow website.
